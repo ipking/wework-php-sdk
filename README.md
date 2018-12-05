@@ -11,12 +11,12 @@ php : https://github.com/sbzhu/weworkapi_php
 经测试，PHP 5.3.3 ~ 7.2.0 版本均可使用
 
 # Director 
-
-├── src // API 接口  <br />
-│   ├── Model // API接口需要使用到的一些数据结构  <br />
-│   ├── Core //API接口的关键逻辑 <br />
-│   ├── Error //异常错误类 <br />
-│   └── Util // 基础类方法 <br />
-├── callback_json // 消息回调的一些方法  <br />
-├── examples // API接口的测试用例 <br />
-
+```
+├── src // API 接口
+│   ├── Model // API接口需要使用到的一些数据结构
+│   ├── Core //API接口的关键逻辑
+│   ├── Error //异常错误类
+│   └── Util // 基础类方法
+├── callback_json // 消息回调的一些方法
+└── examples // API接口的测试用例
+```
