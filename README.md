@@ -8,7 +8,7 @@ wework_php 是为了简化开发者对企业微信API接口的使用而设计的
 php : https://github.com/sbzhu/weworkapi_php  
 
 # Requirement
-经测试，PHP 5.3.3 ~ 7.2.0 版本均可使用
+经测试，PHP 5.4 ~ 7.0 版本均可使用
 
 # Director 
 
